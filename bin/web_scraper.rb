@@ -6,15 +6,19 @@ def scraper
   url = 'https://meqasa.com/' 
   unparsed_page = HTTParty.get(url) 
   parsed_page = Nokogiri::HTML(unparsed_page) 
-  houses_strings = [] parsed_page.css('div.one-featured-prop').each do |home| 
+  houses_strings = [] 
+  parsed_page.css('div.one-featured-prop').each do |home| 
     houses_strings << home.content 
   end 
-  houses = [] houses_strings.each do |house| 
+  houses = [] 
+  houses_strings.each do |house| 
     new_house = house.split 
     houses << new_house 
   end 
   byebug 
-end
+end 
+
+
 # def scraper
 #   url = 'https://meqasa.com/'
 #   unparsed_page = HTTParty.get(url)
