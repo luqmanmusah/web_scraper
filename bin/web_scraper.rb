@@ -1,37 +1,27 @@
 require 'nokogiri'
 require 'httparty'
 require 'byebug'
+require 'csv'
 
-def scraper 
-  url = 'https://meqasa.com/' 
-  unparsed_page = HTTParty.get(url) 
-  parsed_page = Nokogiri::HTML(unparsed_page) 
-  houses_strings = [] 
-  parsed_page.css('div.one-featured-prop').each do |home| 
-    houses_strings << home.content 
-  end 
-  houses = [] 
-  houses_strings.each do |house| 
-    new_house = house.split 
-    houses << new_house 
-  end 
-  byebug 
-end 
+def scraper
+  url = 'https://meqasa.com/'
+  unparsed_page = HTTParty.get(url)
+  parsed_page = Nokogiri::HTML(unparsed_page)
+  featured_houses = []
+  all_house = parsed_page.css('div.one-featured-prop') # 121 houses
+  all_house.each do |home|
+    featured_houses << home.content
+  end
+  houses = []
+  featured_houses.each do |house|
+    new_house = house.split
+    houses << new_house
+end
 
-
-# def scraper
-#   url = 'https://meqasa.com/'
-#   unparsed_page = HTTParty.get(url)
-#   parsed_page = Nokogiri::HTML(unparsed_page)
-#   houses = []
-#   first_house = parsed_page.css('div.one-featured-prop') # 121 houses
-#   first_house.each do |_homes|
-#     house = {
-#       Status: first_house.css('label').text,
-#       Information: first_house.css('p').text,
-#     }
-#     houses << house
-#   end
-#   byebug
-# end
-# scraper
+CSV.open("file.csv", "wb") do |csv|
+  join_houses = houses.join(" ")
+  csv << join_houses
+end
+  byebug
+end
+scraper
