@@ -18,7 +18,7 @@ def scraper
     houses << new_house
 end
 csv = []
-h = %w[status description bed washroom kitchen]
+h = %w[status description bed washroom garage]
 CSV.open('data.csv', 'w', write_headers: true, headers: h) do |csv|
   houses.each do |house|
     csv << house
