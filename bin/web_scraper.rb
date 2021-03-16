@@ -10,6 +10,7 @@ def scraper
   featured_houses = []
   all_house = parsed_page.css('div.one-featured-prop') # 121 houses
   all_house.each do |home|
+    status = parsed_page.css('label').map
     featured_houses << home.content
   end
   houses = []
