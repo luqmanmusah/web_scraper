@@ -17,11 +17,14 @@ def scraper
     new_house = house.split
     houses << new_house
 end
-
-CSV.open("file.csv", "wb") do |csv|
-  join_houses = houses.join(" ")
-  csv << join_houses
+csv = []
+h = %w[status description bed washroom kitchen]
+CSV.open('data.csv', 'w', write_headers: true, headers: h) do |csv|
+  houses.each do |house|
+    csv << house
+  end 
 end
+
   byebug
 end
 scraper
