@@ -1,19 +1,22 @@
 status,description,bed,washroom,garage,location
-For Sale,3 bedroom detached house for sale ,3,3,2, OYARIFA
-For Sale,penthouseapartment for sale ,3,3,0, Tse Addo 3 3
-For Sale,2 bedroom semi-detached house for sale ,2,3,2, Tema
-For Sale,3 bedroom detached house for sale ,3,3,2, OYARIFA
-For Sale,terracehouse for sale ,3,3,2, Ha
-For Sale,2 bedroom apartment for sale ,2,2,0, Tse Addo
-For Sale,2 bedroom townhouse for sale ,2,1,0, Ha
 For Sale,2 bedroom detached house for sale ,2,3,2, ABURI
-For Sale,3 bedroom semi-detached house for sale ,3,4,2, Tema
 For Rent,1 bedroom apartment for rent ,1,1,1, Cantonments 1
-For Sale,3 bedroom detached house for sale ,3,4,2, Tema
 For Sale,land for sale ,Legon,Hills,0, Tema Community 23 -
+For Sale,terracehouse for sale ,3,3,2, Ha
+For Sale,3 bedroom semi-detached house for sale ,3,4,2, Tema
 For Sale,3 bedroom detached house for sale ,3,4,2, ABURI
-For Sale,2 bedroom semi-detached house for sale ,2,3,2, SPINTEX
+For Sale,2 bedroom townhouse for sale ,2,1,0, Ha
+For Sale,3 bedroom detached house for sale ,3,3,2, OYARIFA
+For Sale,2 bedroom semi-detached house for sale ,2,3,2, Tema
 For Sale,4 bedroom townhouse for sale ,4,5,0, Ashaley Botwe
+For Sale,3 bedroom detached house for sale ,3,3,2, OYARIFA
+For Sale,2 bedroom apartment for sale ,2,2,0, Tse Addo
+For Sale,penthouseapartment for sale ,3,3,0, Tse Addo 3 3
+For Sale,2 bedroom semi-detached house for sale ,2,3,2, SPINTEX
+For Sale,3 bedroom detached house for sale ,3,4,2, Tema
+For Sale,5 bedroom House for sale ,5,5,0, Valley View
+For Sale,Commercial space for sale ,Crescent,6,0, Adjuma Crescent 6
+For Sale,22 bedroom Apartment for sale ,22,30,15, Ashongman Est
 For Rent,2 bedroom House for rent ,2,3,4, Community 25
 For Rent,3 bedroom Apartment for rent ,3,2,0, Dzorwulu 3
 For Sale,2 bedroom Apartment for sale ,2,2,8, La 2
@@ -37,6 +40,7 @@ For Sale,3 bedroom House for sale ,3,4,0, Frafraha 3
 For Sale,3 bedroom House for sale ,3,3,0, Achimota 3
 For Rent,1 bedroom Apartment for rent ,1,1,1, Tema 1
 For Sale,4 bedroom Townhouse for sale ,4,4,0, East Legon
+For Rent,2 bedroom Apartment for rent ,2,2,0, Spintex 2
 For Rent,5 bedroom House for rent ,5,5,5, Community 5
 For Rent,9 bedroom House for rent ,9,9,0, East Legon
 For Rent,2 bedroom Apartment for rent ,2,2,0, Tse Addo
@@ -77,6 +81,7 @@ For Rent,Office for rent ,5,2,25, Airport City 5 2
 For Rent,2 bedroom Apartment for rent ,2,3,2, Adenta 2
 For Rent,3 bedroom Apartment for rent ,3,4,4, North Legon
 For Rent,2 bedroom Apartment for rent ,2,2,3, Dome 2
+For Sale,6 bedroom House for sale ,6,7,2, East Legon
 For Sale,4 bedroom House for sale ,4,4,1, East Legon
 For Sale,Land for sale ,Dodowa,Ayikuma,0, Dodowa Ayikuma
 For Sale,4 bedroom House for sale ,4,4,1, East Legon
@@ -108,15 +113,15 @@ For Sale,4 bedroom House for sale ,4,5,0, Ashaley Botwe
 For Sale,4 bedroom House for sale ,4,5,0, Cantonments 4
 For Sale,Land for sale ,REDUCTION,SALES,0, COMMUNITY 25 - REDUCTION
 For Sale,Land for sale , Cantonments,Cantonments,0, Cantonments
-For Rent,3 bedroom House for rent ,3,3,2, Tema Community
-For Sale,Land for sale ,airport,Tsaddo,0, East airport Tsaddo
-For Rent,3 bedroom House for rent ,3,4,4, East airport
-For Rent,2 bedroom Apartment for rent ,2,3,2, Tseado 2
-For Rent,4 bedroom House for rent ,20,4,5, Community 20
-For Rent,3 bedroom Apartment for rent ,3,2,0, Labone 3
-For Sale,4 bedroom House for sale ,4,5,0, SPINTEX OPPOSITE
-For Rent,2 bedroom Apartment for rent ,2,3,0, Labone 2
-For Rent,4 bedroom House for rent ,4,5,0, Labone 4
-For Rent,Townhouse for rent ,4,5,0, East Legon 4 5
-For Rent,3 bedroom House for rent ,3,2,0, Coastal behind
-For Rent,3 bedroom House for rent ,3,3,2, Abokobi 3
+For Sale,Land for sale ,GENUINELY,ORGANIZED,0, PRAMPRAM BEACH LANE GENUINELY
+For Sale,Land for sale ,prices,[P,0, Prampram _ Drastically reduced
+For Sale,Land for sale ,COMMUNITY,25,0, TEMA COMMUNITY 25
+For Sale,3 bedroom House for sale ,3,3,0, East Legon
+For Sale,Land for sale ,COMMUNITY,25,0, TEMA COMMUNITY 25
+For Rent,1 bedroom House for rent ,1,1,0, Dansoman Akuko
+For Sale,2 bedroom House for sale ,2,2,0, East Legon
+For Sale,Land for sale ,COMMUNITY,25,0, TEMA COMMUNITY 25
+For Sale,Land for sale , Ashalaja-Kasoa,Ashalaja-Kasoa,0, Ashalaja-Kasoa
+For Sale,3 bedroom House for sale ,3,4,0, Spintex 3
+For Rent,2 bedroom Apartment for rent ,2,2,0, Madina 2
+For Sale,Land for sale , Ablekuma-pokuase,Ablekuma-pokuase,0, Ablekuma-pokuase
