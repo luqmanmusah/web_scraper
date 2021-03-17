@@ -46,8 +46,6 @@ def scraper
       csv << house
     end
   end
-
   # byebug
 end
-
 scraper
