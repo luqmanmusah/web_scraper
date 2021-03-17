@@ -19,7 +19,7 @@ The Client wants to get a list of houses saved in an csv file to be able to asse
 
 # Prerequisites
 
-If you intend to download the project, you will need to have Ruby already installed on your machine. For more information on how to install Ruby, follow [the link]('https://www.ruby-lang.org/en/downloads/')
+If you intend to download the project, you will need to have Ruby already installed on your machine. For more information on how to install Ruby, follow [@the link]('https://www.ruby-lang.org/en/downloads/')
 
 # Installation Instructions
 
