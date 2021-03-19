@@ -17,4 +17,3 @@ def featured
   end
   houses
 end
-
