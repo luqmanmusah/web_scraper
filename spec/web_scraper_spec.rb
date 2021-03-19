@@ -1,6 +1,5 @@
 require '../lib/web_scraper'
 
-
 describe '#featured' do
   it 'return an array' do
     expect(featured.class).to eq(Array)
