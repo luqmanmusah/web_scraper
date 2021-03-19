@@ -1,11 +1,9 @@
 #!/usr/bin/ruby
 require_relative('../lib/web_scraper')
 
-def featured
-    houses = featured
-  end
+def featured; end
+
 def scraper
-    byebug
+  # byebug
 end
 scraper
-
