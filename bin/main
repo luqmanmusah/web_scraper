@@ -1,0 +1,7 @@
+#!/usr/bin/ruby
+require_relative('../lib/web_scraper')
+
+def scraper
+    byebug
+end
+scraper

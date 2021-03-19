@@ -3,6 +3,7 @@ require 'httparty'
 require 'byebug'
 require 'csv'
 
+public
 def parsed_page
   url = 'https://meqasa.com/'
   unparsed_page = HTTParty.get(url)

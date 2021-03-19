@@ -1,23 +1,24 @@
 status,description,bed,washroom,garage,location
-For Sale,terracehouse for sale ,3,3,2, Ha
-For Sale,2 bedroom semi-detached house for sale ,2,3,2, Tema
-For Sale,3 bedroom detached house for sale ,3,4,2, ABURI
-For Sale,2 bedroom semi-detached house for sale ,2,3,2, SPINTEX
-For Sale,3 bedroom detached house for sale ,3,4,2, Tema
-For Sale,2 bedroom townhouse for sale ,2,1,0, Ha
-For Sale,4 bedroom townhouse for sale ,4,5,0, Ashaley Botwe
 For Sale,2 bedroom apartment for sale ,2,2,0, Tse Addo
+For Sale,2 bedroom townhouse for sale ,2,1,0, Ha
+For Sale,3 bedroom detached house for sale ,3,4,2, Tema
+For Sale,2 bedroom semi-detached house for sale ,2,3,2, SPINTEX
 For Rent,1 bedroom apartment for rent ,1,1,1, Cantonments 1
-For Sale,3 bedroom detached house for sale ,3,3,2, OYARIFA
-For Sale,3 bedroom detached house for sale ,3,3,2, OYARIFA
 For Sale,land for sale ,Legon,Hills,0, Tema Community 23 -
-For Sale,2 bedroom detached house for sale ,2,3,2, ABURI
+For Sale,3 bedroom detached house for sale ,3,3,2, OYARIFA
+For Sale,4 bedroom townhouse for sale ,4,5,0, Ashaley Botwe
+For Sale,3 bedroom detached house for sale ,3,3,2, OYARIFA
 For Sale,penthouseapartment for sale ,3,3,0, Tse Addo 3 3
+For Sale,2 bedroom detached house for sale ,2,3,2, ABURI
+For Sale,2 bedroom semi-detached house for sale ,2,3,2, Tema
+For Sale,terracehouse for sale ,3,3,2, Ha
+For Sale,3 bedroom detached house for sale ,3,4,2, ABURI
 For Sale,3 bedroom semi-detached house for sale ,3,4,2, Tema
 For Sale,4 bedroom Townhouse for sale ,4,4,0, East Legon
 For Sale,5 bedroom House for sale ,5,5,0, Valley View
 For Sale,Commercial space for sale ,Crescent,6,0, Adjuma Crescent 6
 For Sale,22 bedroom Apartment for sale ,22,30,15, Ashongman Est
+For Rent,2 bedroom House for rent ,2,3,4, Community 25
 For Rent,3 bedroom Apartment for rent ,3,2,0, Dzorwulu 3
 For Sale,2 bedroom Apartment for sale ,2,2,8, La 2
 For Sale,3 bedroom House for sale ,3,4,0, East Legon
@@ -38,7 +39,6 @@ For Rent,2 bedroom Apartment for rent ,26,2,3, Community 26
 For Sale,5 bedroom House for sale ,5,5,0, Akosombo 5
 For Sale,3 bedroom House for sale ,3,4,0, Frafraha 3
 For Sale,3 bedroom House for sale ,3,3,0, Achimota 3
-For Rent,2 bedroom Apartment for rent ,2,3,8, Dzorwulu 2
 For Rent,5 bedroom House for rent ,5,4,0, East Legon
 For Rent,1 bedroom Apartment for rent ,1,1,2, Spintex 1
 For Rent,3 bedroom House for rent ,3,3,0, East Legon
@@ -110,15 +110,16 @@ For Sale,Land for sale ,ESTATE,JUNCTION,0, MANET COURT ESTATE JUNCTION
 For Sale,5 bedroom House for sale ,5,4,5, Kojo Bedu
 For Sale,3 bedroom Apartment for sale ,3,3,4, liber
 For Sale,1 bedroom Apartment for sale ,1,2,2, East Legon
-For Sale,Land for sale ,ONGOING,PR,0, Prampram_ LEGIT AND SECURED
-For Sale,5 bedroom House for sale ,5,5,3, East Legon
-For Sale,Land for sale ,DISCOUNT,ON,0, PRAMPRAM LANE-ENJOY WHOPPING DISCOUNT
-For Sale,Land for sale ,TITLED,PLOTS,0, PRAMPRAM PREMIUM TITLED PLOTS
-For Sale,Land for sale ,DOWN,PRICE,0, PRAMPRAM LANE-MASSIVELY SLASH DOWN
-For Sale,Land for sale ,LANDS,P,0, PRAMPRAM LANE -JUMBO ON
-For Sale,Land for sale ,TEMA,COMM,0, TEMA COMM
-For Sale,3 bedroom House for sale ,3,4,4, Ashaley Botwe
-For Sale,3 bedroom House for sale ,3,3,0, Ayi Mensah
-For Sale,Land for sale , Prampram,Prampram,0, Prampram
-For Sale,Land for sale , Prampram,Prampram,0, Prampram
-For Sale,Land for sale , Prampram,Prampram,0, Prampram
+For Sale,Land for sale ,Lakeside,Estate,0, Lakeside Est
+For Sale,Land for sale ,100/70,Pl,0, Trasacco 100 Acres Titled
+For Sale,Land for sale , Afienya,Afienya,0, Afienya
+For Sale,3 bedroom House for sale ,3,3,4, Lakeside community
+For Rent,5 bedroom House for rent ,5,5,5, Mile 11
+For Sale,Land for sale ,A,LAND,0, Prampram_ Make a smart
+For Sale,Land for sale ,Shai,Hills,0, Shai Hills
+For Rent,3 bedroom House for rent ,3,3,3, East Legon
+For Sale,Land for sale ,Shai,Hills,0, Shai Hills
+For Sale,4 bedroom House for sale ,4,5,2, Lakeside Est
+For Rent,5 bedroom House for rent ,5,5,5, West hills
+For Rent,1 bedroom Apartment for rent ,1,1,5, East legon
+For Sale,2 bedroom House for sale ,2,3,5, Oyarifa 2
