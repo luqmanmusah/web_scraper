@@ -1,19 +1,19 @@
 status,description,bed,washroom,garage,location
-For Sale,2 bedroom semi-detached house for sale ,2,3,2, SPINTEX
-For Sale,3 bedroom detached house for sale ,3,4,2, Tema
-For Sale,2 bedroom semi-detached house for sale ,2,3,2, Tema
-For Sale,2 bedroom townhouse for sale ,2,1,0, Ha
-For Sale,4 bedroom townhouse for sale ,4,5,0, Ashaley Botwe
-For Sale,penthouseapartment for sale ,3,3,0, Tse Addo 3 3
-For Sale,3 bedroom detached house for sale ,3,3,2, OYARIFA
-For Sale,terracehouse for sale ,3,3,2, Ha
+For Sale,3 bedroom detached house for sale ,3,4,2, ABURI
 For Rent,1 bedroom apartment for rent ,1,1,1, Cantonments 1
-For Sale,2 bedroom apartment for sale ,2,2,0, Tse Addo
+For Sale,2 bedroom semi-detached house for sale ,2,3,2, Tema
+For Sale,2 bedroom semi-detached house for sale ,2,3,2, SPINTEX
+For Sale,3 bedroom detached house for sale ,3,3,2, OYARIFA
 For Sale,3 bedroom detached house for sale ,3,3,2, OYARIFA
 For Sale,land for sale ,Legon,Hills,0, Tema Community 23 -
-For Sale,3 bedroom detached house for sale ,3,4,2, ABURI
+For Sale,3 bedroom detached house for sale ,3,4,2, Tema
+For Sale,penthouseapartment for sale ,3,3,0, Tse Addo 3 3
 For Sale,2 bedroom detached house for sale ,2,3,2, ABURI
 For Sale,3 bedroom semi-detached house for sale ,3,4,2, Tema
+For Sale,2 bedroom townhouse for sale ,2,1,0, Ha
+For Sale,2 bedroom apartment for sale ,2,2,0, Tse Addo
+For Sale,4 bedroom townhouse for sale ,4,5,0, Ashaley Botwe
+For Sale,terracehouse for sale ,3,3,2, Ha
 For Sale,4 bedroom Townhouse for sale ,4,4,0, East Legon
 For Sale,5 bedroom House for sale ,5,5,0, Valley View
 For Sale,Commercial space for sale ,Crescent,6,0, Adjuma Crescent 6
@@ -77,11 +77,8 @@ For Rent,1 bedroom House for rent ,1,1,0, Ogbodjo 1
 For Rent,3 bedroom House for rent ,3,3,0, Labone 3
 For Rent,2 bedroom House for rent ,2,3,0, Spintex 2
 For Rent,3 bedroom Apartment for rent ,3,3,0, Airport Residential
-For Rent,2 bedroom Apartment for rent ,2,2,1, East Legon
-For Rent,3 bedroom House for rent ,3,4,3, East legon
-For Rent,Office for rent ,5,2,25, Airport City 5 2
-For Rent,2 bedroom Apartment for rent ,2,3,2, Adenta 2
-For Rent,3 bedroom Apartment for rent ,3,4,4, North Legon
+For Sale,Land for sale ,East,Legon,0, East Legon
+For Sale,3 bedroom House for sale ,3,4,3, East Legon
 For Sale,3 bedroom House for sale ,3,3,0, Achimota 3
 For Sale,Land for sale ,COMMUNITY,25,0, TEMA COMMUNITY 25
 For Sale,6 bedroom House for sale ,6,7,2, East Legon
@@ -108,17 +105,15 @@ For Sale,2 bedroom House for sale ,2,2,4, Santor 2
 For Sale,3 bedroom House for sale ,3,3,0, Tamale 3
 For Sale,Land for sale , Prampram,Prampram,0, Prampram
 For Sale,Land for sale ,ESTATE,JUNCTION,0, MANET COURT ESTATE JUNCTION
-For Sale,5 bedroom House for sale ,5,4,5, Kojo Bedu
-For Sale,3 bedroom Apartment for sale ,3,3,4, liber
-For Sale,Townhouse for sale ,3,4,4, Tema community 25 3
-For Rent,Townhouse for rent ,2,3,2, Ayi Mensah 2 3
-For Rent,4 bedroom House for rent ,4,5,6, East legon
-For Rent,4 bedroom House for rent ,4,4,4, East Legon
-For Rent,3 bedroom House for rent ,3,2,3, Spintex basket
-For Rent,2 bedroom Apartment for rent ,2,2,1, Spintex 2
-For Rent,2 bedroom Apartment for rent ,2,3,0, East Legon
-For Sale,3 bedroom House for sale ,3,3,8, Spintex ecobank
-For Rent,3 bedroom House for rent ,3,4,3, Adenta new
-For Rent,4 bedroom House for rent ,4,3,4, Adenta S
-For Sale,Land for sale ,Tantra,hills,0, Tantra hills
-For Rent,4 bedroom House for rent ,4,3,4, Adenta est
+For Rent,3 bedroom Apartment for rent ,3,3,4, Achimota miles
+For Rent,2 bedroom Apartment for rent ,2,2,2, Dzowulu 2
+For Rent,2 bedroom House for rent ,2,2,3, Lakeside community
+For Rent,3 bedroom House for rent ,3,1,4, Dansoman 3
+For Rent,1 bedroom Apartment for rent ,1,1,0, Labone 1
+For Rent,Shop for rent ,1,6,0, Achimota 1 6
+For Rent,2 bedroom Apartment for rent ,2,3,2, Dansoman 2
+For Rent,2 bedroom Apartment for rent ,2,3,0, Ridge 2
+For Rent,1 bedroom Apartment for rent ,1,1,2, East legon
+For Sale,Land for sale ,HIGHLY,SECURED,0, TEMA COMMUNITY 25 BUY
+For Sale,Land for sale ,PLOT,ALLOCATION,0, PRAMPRAM BEACH LANE FREE
+For Sale,Land for sale ,{FAST,DEV,0, PRAMPRAM BEACH LANE INCREDIBLE

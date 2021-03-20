@@ -6,7 +6,7 @@ require 'csv'
 def parsed_page
   url = 'https://meqasa.com/'
   unparsed_page = HTTParty.get(url)
-  Nokogiri::HTML(unparsed_page)
+  Nokogiri::HTML(unparsed_page.body)
 end
 
 def featured
