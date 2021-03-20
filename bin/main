@@ -1,9 +1,6 @@
 #!/usr/bin/ruby
 require_relative('../lib/web_scraper')
 
-def featured; end
-
-def scraper
-  # byebug
-end
 scraper
+
+puts 'File created. Please check data.csv for value'

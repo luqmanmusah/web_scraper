@@ -34,20 +34,19 @@ Once in the root directory of the repository, navigate inside it by entering the
 
 cd bin
 
-Uncomment the byebug on line 6 in the main file.
-
 Finally run the executable file:
 
 main
 
-You can then run whatever information you need in the byebug and all houses will be saved inside the csv file.
+All houses will be saved inside the data.csv file.
 
-The scrapper is a script file that was built in order to pull essential data of a Listing website. The listing website is www.meqasa.com. The Client wants to get the Status, description, location and number of beds, washroom and garage of houses listed on the website.
+The scrapper is a script file that was built in order to pull essential data of a Listing website. The listing website is www.meqasa.com. 
+
+The Client wants to get the Status, description, location and number of beds, washroom and garage of houses listed on the website.
 
 The Client wants to get a list of houses saved in a csv file to be able to assess the important details of houses listed on the website.
 
-1)Output to the terminal essential information about the houses listed on the website
-2)save that information into data.csv file
+Save that information into data.csv file
 
 # Repository Contents
 
