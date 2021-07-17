@@ -1,0 +1,6 @@
+#!/usr/bin/ruby
+require_relative('../lib/web_scraper')
+
+scraper
+
+puts 'File created. Please check data.csv for value'
